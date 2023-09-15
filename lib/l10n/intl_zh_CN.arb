@@ -1,0 +1,19 @@
+{
+
+    "welcome_login":"欢迎您，请登录",
+    "user_name":"用户名",
+    "password":"密码",
+    "login":"登录",
+    "copyright1":"版权所有",
+    "company":"杭州键嘉机器人有限公司",
+    "copyright2":"保留所有权利",
+    "login_success":"登录成功！",
+    "no_exist_user":"用户不存在！",
+    "password_error":"密码输入错误！",
+    "no_input_for_login":"用户名或密码不能为空！",
+    "language":"语言",
+    "setup":"设置",
+    "voice":"声音",
+    "unit":"压力单位",
+    "about":"关于软件"
+}

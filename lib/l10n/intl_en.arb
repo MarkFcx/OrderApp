@@ -1,0 +1,19 @@
+{
+    "welcome_login":"Welcome, Please login",
+    "user_name":"User Name",
+    "password":"Password",
+    "login":"Login",
+    "copyright1":"Property in copyright",
+    "company":"Hangzhou Jianjia Robot Co., LTD",
+    "copyright2":"All rights reserved.",
+    "login_success":"Log in successfully!",
+    "no_exist_user":"The user does not exist!",
+    "password_error":"Password is error!",
+    "no_input_for_login":"The user name or password cannot be empty!",
+    "language":"Language",
+    "setup":"Setup",
+    "voice":"Voice",
+    "unit":"Unit",
+    "about":"About"
+
+}
